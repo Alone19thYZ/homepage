@@ -11,6 +11,11 @@
   },
   {
     "icon": "Fire",
+    "name": "摸鱼",
+    "link": "https://dayu.qqsuu.cn/moyuribao/apis.php"
+  },
+  {
+    "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
   },
