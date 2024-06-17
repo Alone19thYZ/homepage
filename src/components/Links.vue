@@ -69,6 +69,7 @@ const siteIcon = {
   Compass,
   Book,
   Fire,
+  Fish,
   LaptopCode,
 };
 
