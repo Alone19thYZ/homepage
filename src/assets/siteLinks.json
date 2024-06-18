@@ -15,6 +15,11 @@
     "link": "https://dayu.qqsuu.cn/moyuribao/apis.php"
   },
   {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://nav.imsyy.top/"
+  },
+  {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
