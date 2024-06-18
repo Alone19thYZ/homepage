@@ -109,13 +109,12 @@ onMounted(() => {
   const styleContent = "color: rgb(30,152,255);";
   const title1 = "何辰风的主页";
   const title2 = `
-  __  __  ____     ____    
-/\ \/\ \/\  _`\  /\  _`\  
-\ \ \_\ \ \ \/\_\\ \ \L\_\
- \ \  _  \ \ \/_/_\ \  _\/
-  \ \ \ \ \ \ \L\ \\ \ \/ 
-   \ \_\ \_\ \____/ \ \_\ 
-    \/_/\/_/\/___/   \/_/ ;
+  _____ __  __  _______     ____     __
+|_   _|  \\/  |/ ____\\ \\   / /\\ \\   / /
+  | | | \\  / | (___  \\ \\_/ /  \\ \\_/ /
+  | | | |\\/| |\\___ \\  \\   /    \\   /
+ _| |_| |  | |____) |  | |      | |
+|_____|_|  |_|_____/   |_|      |_|`;
   const content = `\n\n版本: ${config.version}\n主页: ${config.home}\nGithub: ${config.github}`;
   console.info(`%c${title1} %c${title2} %c${content}`, styleTitle1, styleTitle2, styleContent);
 });
