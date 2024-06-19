@@ -97,7 +97,7 @@ watch(
     max-width: 460px;
     .logo-img {
       border-radius: 50%;
-      width: 150px;
+      width: 120px;
     }
     .name {
       width: 100%;
@@ -170,7 +170,7 @@ watch(
     .logo {
       flex-direction: column;
       .logo-img {
-        display: inline-block;
+        display: none;
       }
       .name {
         margin-left: 0;
