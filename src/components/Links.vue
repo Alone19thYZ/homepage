@@ -64,7 +64,6 @@ const siteLinksList = computed(() => {
 // 网站链接图标
 const siteIcon = {
   Blog,
-  BrandBing,
   CompactDisc,
   Compass,
   Fire,
